@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="gms_core_dialog_dismiss_text">Jangan tampilkan lagi</string>
+    <string name="revanced_bypass_image_region_restrictions_domain_summary">Domain tempat mengambil gambar.\nCatatan: Hanya masukkan nama domain, yaitu tanpa awalan \"https\:\/\/\".</string>
+    <string name="revanced_bypass_image_region_restrictions_domain_title">Domain alternatif</string>
+    <string name="revanced_change_start_page_entry_courses">Kursus / Pembelajaran</string>g>
+    <string name="revanced_external_downloader_package_name_video_long_press_summary">Nama paket aplikasi pengunduh eksternal yang Anda instal, seperti NewPipe atau YTDLnis, jika ditekan lama.</string>
+    <string name="revanced_external_downloader_package_name_video_long_press_title">Tekan lama nama paket pengunduh video</string>
+    <string name="revanced_gms_show_dialog_summary">Menampilkan dialog pengoptimalan untuk GMSCore saat setiap memulai aplikasi.</string>
+    <string name="revanced_gms_show_dialog_title">Tampilkan dialog pengoptimalan untuk GMSCore</string>
+    <string name="revanced_hide_shorts_comments_disabled_button_summary_off">Tombol komentar yang dinonaktifkan atau dengan label \"0\" ditampilkan.</string>
+    <string name="revanced_hide_shorts_comments_disabled_button_summary_on">Tombol komentar yang dinonaktifkan atau dengan label \"0\" disembunyikan.</string>
+    <string name="revanced_hide_shorts_comments_disabled_button_title">Sembunyikan tombol komentar yang dinonaktifkan</string>
+    <string name="revanced_icon_mmt_blue">MMT Biru</string>
+    <string name="revanced_icon_mmt_green">MMT Hijau</string>
+    <string name="revanced_icon_mmt_orange">MMT Oranye</string>
+    <string name="revanced_icon_mmt_pink">MMT Merah Muda</string>
+    <string name="revanced_icon_mmt_turquoise">MMT Pirus</string>
+    <string name="revanced_icon_mmt_yellow">MMT Kuning</string>
+    <string name="revanced_icon_revancify_yellow">Revancify Kuning</string>
+    <string name="revanced_icon_vanced_black">Vanced Gelap</string>
+    <string name="revanced_icon_vanced_light">Vanced Terang</string>
+    <string name="revanced_icon_xisr_yellow">Xisr Kuning</string>
+    <string name="revanced_miniplayer_double_tap_action_summary_off">Tindakan ketuk dua kali dan cubit untuk mengubah ukuran dinonaktifkan.</string>
+    <string name="revanced_miniplayer_double_tap_action_summary_on">"Tindakan ketuk dua kali dan cubit untuk mengubah ukuran diaktifkan.
+
+• Ketuk dua kali untuk menambah ukuran pemutar mini.
+• Ketuk dua kali lagi untuk mengembalikan ukuran aslinya."</string>
+    <string name="revanced_miniplayer_double_tap_action_title">Aktifkan ketuk dua kali dan cubit untuk mengubah ukuran</string>
+    <string name="revanced_miniplayer_drag_and_drop_summary_off">Tarik dan lepas dinonaktifkan.</string>
+    <string name="revanced_miniplayer_drag_and_drop_summary_on">"Tarik dan lepas diaktifkan.
+
+Pemutar mini dapat ditarik ke sudut mana pun di layar."</string>
+    <string name="revanced_miniplayer_drag_and_drop_title">Aktifkan tarik dan lepas</string>
+    <string name="revanced_miniplayer_hide_expand_close_legacy_summary_off">Tombol perluas dan tutup ditampilkan.</string>
+    <string name="revanced_miniplayer_hide_expand_close_legacy_summary_on">"Tombol disembunyikan.
+
+Geser untuk meluaskan atau menutup."</string>
+    <string name="revanced_miniplayer_hide_expand_close_legacy_title">Sembunyikan tombol luaskan dan tutup</string>
+    <string name="revanced_miniplayer_horizontal_drag_summary_off">Gestur tarik horizontal dinonaktifkan.</string>
+    <string name="revanced_miniplayer_horizontal_drag_summary_on">"Gestur tarik horizontal diaktifkan.
+
+Pemutar mini dapat ditarik keluar layar ke kiri atau kanan."</string>
+    <string name="revanced_miniplayer_horizontal_drag_title">Aktifkan gestur tarik horizontal.</string>
+    <string name="revanced_miniplayer_rounded_corners_summary_off">Sudut berbentuk persegi.</string>
+    <string name="revanced_miniplayer_rounded_corners_summary_on">Sudut dibulatkan.</string>
+    <string name="revanced_miniplayer_rounded_corners_title">Aktifkan sudut membulat</string>
+    <string name="revanced_miniplayer_type_entry_0">Dinonaktifkan</string>
+    <string name="revanced_miniplayer_width_dip_invalid_toast">Ukuran piksel harus antara %1$s dan %2$s.</string>
+    <string name="revanced_miniplayer_width_dip_summary">Ukuran awal pada layar, dalam piksel.</string>
+    <string name="revanced_miniplayer_width_dip_title">Ukuran awal</string>
+    <string name="revanced_overlay_button_play_all_not_available_toast">Tidak dapat membuat playlist karena ID channel tidak cocok.</string>
+    <string name="revanced_overlay_button_play_all_summary">"Ketuk untuk membuat playlist semua video dari channel.
+Ketuk dan tahan untuk membatalkan.
+
+Informasi:
+• Mungkin tidak berfungsi pada live streaming."</string>
+    <string name="revanced_overlay_button_play_all_title">Tampilkan tombol putar semua</string>
+    <string name="revanced_overlay_button_play_all_type_entry_0">Semua konten (urutkan berdasarkan waktu, terkecil)</string>
+    <string name="revanced_overlay_button_play_all_type_entry_1">Semua konten urutkan berdasarkan waktu)</string>
+    <string name="revanced_overlay_button_play_all_type_entry_10">Video khusus pelanggan</string>
+    <string name="revanced_overlay_button_play_all_type_entry_11">Shorts khusus pelanggan</string>
+    <string name="revanced_overlay_button_play_all_type_entry_12">Live streaming khusus pelanggan</string>
+    <string name="revanced_overlay_button_play_all_type_entry_2">Semua konten (urutkan berdasarkan populer)</string>
+    <string name="revanced_overlay_button_play_all_type_entry_3">Hanya video (urutkan berdasarkan waktu)</string>
+    <string name="revanced_overlay_button_play_all_type_entry_4">Hanya video (urutkan berdasarkan populer)</string>
+    <string name="revanced_overlay_button_play_all_type_entry_5">Hanya shorts (urutkan berdasarkan waktu)</string>
+    <string name="revanced_overlay_button_play_all_type_entry_6">Hanya shorts (urutkan berdasarkan populer)</string>
+    <string name="revanced_overlay_button_play_all_type_entry_7">Hanya video streaming (urutkan berdasarkan waktu)</string>
+    <string name="revanced_overlay_button_play_all_type_entry_8">Hanya video streaming (urutkan berdasarkan populer)</string>
+    <string name="revanced_overlay_button_play_all_type_entry_9">Semua konten khusus pelanggan</string>
+    <string name="revanced_overlay_button_play_all_type_title">Buat mode playlist</string>
+    <string name="revanced_sb_new_segment_adjust">Sesuaikan: tandai waktu awal dan akhir untuk segmen</string>
+    <string name="revanced_sb_new_segment_compare">Verifikasi segmen</string>
+    <string name="revanced_sb_new_segment_edit">Edit segmen</string>
+    <string name="revanced_sb_new_segment_forward">Lompat sesuai waktu tertentu (default: 150 md)</string>
+    <string name="revanced_sb_new_segment_publish">Publikasi segmen yang telah dibuat</string>
+    <string name="revanced_sb_new_segment_rewind">Putar balik berdasarkan waktu yang ditentukan (default: 150 md)</string>
+    <string name="revanced_spoof_streaming_data_ios_skip_livestream_playback_summary_off">Klien iOS digunakan untuk pemutaran live streaming.</string>
+    <string name="revanced_spoof_streaming_data_ios_skip_livestream_playback_summary_on">Klien iOS tidak digunakan untuk pemutaran live streaming.</string>
+    <string name="revanced_spoof_streaming_data_ios_skip_livestream_playback_title">Lewati pemutaran live streaming iOS</string>
+    <string name="revanced_spoof_streaming_data_side_effects_ios_compatibility">"• Video mungkin berakhir 1 detik lebih awal.
+• Codec audio OPUS mungkin tidak didukung."</string>
+    <string name="revanced_spoof_streaming_data_side_effects_ios_skip_livestream_playback">• Video mungkin berakhir 1 detik lebih awal.</string>
+</resources>

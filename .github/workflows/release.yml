@@ -34,6 +34,9 @@ jobs:
       - name: Cache Gradle
         uses: burrunan/gradle-cache-action@v1
 
+      - name: Backup gradle.properties
+        run: cp gradle.properties gradle.properties.bak
+
       - name: Build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -60,3 +63,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm exec semantic-release
+
+      - name: Restore gradle.properties
+        run: mv gradle.properties.bak gradle.properties
+
+      - name: Verify gradle.properties Version
+        run: |
+          EXPECTED_VERSION="4.0.0"
+          CURRENT_VERSION=$(grep "version=" gradle.properties | cut -d'=' -f2)
+          if [ "$CURRENT_VERSION" != "$EXPECTED_VERSION" ]; then
+            echo "Error: gradle.properties version has changed unexpectedly!"
+            exit 1
+          fi

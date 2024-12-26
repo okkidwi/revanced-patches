@@ -48,11 +48,11 @@ private const val EXTENSION_CLASS_DESCRIPTOR =
 private const val PACKAGE_NAME_REGEX_PATTERN = "^[a-z]\\w*(\\.[a-z]\\w*)+\$"
 
 private const val CLONE_PACKAGE_NAME_YOUTUBE = "bill.youtube"
-private const val DEFAULT_PACKAGE_NAME_YOUTUBE = "anddea.youtube"
+private const val DEFAULT_PACKAGE_NAME_YOUTUBE = "okkidwidrive.youtube"
 internal const val ORIGINAL_PACKAGE_NAME_YOUTUBE = "com.google.android.youtube"
 
 private const val CLONE_PACKAGE_NAME_YOUTUBE_MUSIC = "bill.youtube.music"
-private const val DEFAULT_PACKAGE_NAME_YOUTUBE_MUSIC = "anddea.youtube.music"
+private const val DEFAULT_PACKAGE_NAME_YOUTUBE_MUSIC = "okkidwidrive.youtube.music"
 internal const val ORIGINAL_PACKAGE_NAME_YOUTUBE_MUSIC =
     "com.google.android.apps.youtube.music"
 

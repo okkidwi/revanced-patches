@@ -1246,10 +1246,10 @@
         "description": "The name of the package to use in GmsCore support.",
         "required": true,
         "type": "kotlin.String",
-        "default": "anddea.youtube",
+        "default": "okkidwidrive.youtube",
         "values": {
           "Clone": "bill.youtube",
-          "Default": "anddea.youtube"
+          "Default": "okkidwidrive.youtube"
         }
       },
       {
@@ -1258,10 +1258,10 @@
         "description": "The name of the package to use in GmsCore support.",
         "required": true,
         "type": "kotlin.String",
-        "default": "anddea.youtube.music",
+        "default": "okkidwidrive.youtube.music",
         "values": {
           "Clone": "bill.youtube.music",
-          "Default": "anddea.youtube.music"
+          "Default": "okkidwidrive.youtube.music"
         }
       }
     ]
@@ -1311,10 +1311,10 @@
         "description": "The name of the package to use in GmsCore support.",
         "required": true,
         "type": "kotlin.String",
-        "default": "anddea.youtube",
+        "default": "okkidwidrive.youtube",
         "values": {
           "Clone": "bill.youtube",
-          "Default": "anddea.youtube"
+          "Default": "okkidwidrive.youtube"
         }
       },
       {
@@ -1323,10 +1323,10 @@
         "description": "The name of the package to use in GmsCore support.",
         "required": true,
         "type": "kotlin.String",
-        "default": "anddea.youtube.music",
+        "default": "okkidwidrive.youtube.music",
         "values": {
           "Clone": "bill.youtube.music",
-          "Default": "anddea.youtube.music"
+          "Default": "okkidwidrive.youtube.music"
         }
       }
     ]

@@ -57,6 +57,7 @@ jobs:
           fingerprint: ${{ env.GPG_FINGERPRINT }}
 
       - name: Release
+        if: github.event_name == 'workflow_dispatch'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm exec semantic-release

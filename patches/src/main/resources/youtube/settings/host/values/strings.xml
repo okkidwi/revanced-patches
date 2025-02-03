@@ -1429,7 +1429,7 @@ Tap and hold to open whitelist setting dialog.</string>
     <string name="revanced_override_youtube_music_button_about_prerequisite_summary">YouTube Music is required to override button action. Tap here to download YouTube Music.</string>
     <string name="revanced_override_youtube_music_button_about_prerequisite_title">Prerequisite</string>
     <string name="revanced_override_youtube_music_button_summary_off">YouTube Music button opens the native app.</string>
-    <string name="revanced_override_youtube_music_button_summary_on">YouTube Music button opens the RVX Music.</string>
+    <string name="revanced_override_youtube_music_button_summary_on">YouTube Music button opens the YTM RVX.</string>
     <string name="revanced_override_youtube_music_button_title">Override YouTube Music button</string>
     <string name="revanced_patches_excluded">Excluded</string>
     <string name="revanced_patches_included">Included</string>
@@ -2002,11 +2002,11 @@ Also, ads will no longer be blocked in Shorts.
 
 If this setting do not take effect, try switching to Incognito mode."</string>
     <string name="revanced_theme_default">Stock</string>
-    <string name="revanced_third_party_youtube_music_dialog_title">RVX Music</string>
+    <string name="revanced_third_party_youtube_music_dialog_title">YTM RVX</string>
     <string name="revanced_third_party_youtube_music_not_installed_dialog_title">Warning</string>
     <string name="revanced_third_party_youtube_music_not_installed_warning">%s is not installed. Please install it.</string>
-    <string name="revanced_third_party_youtube_music_package_name_summary">Package name of installed RVX Music.</string>
-    <string name="revanced_third_party_youtube_music_package_name_title">RVX Music package name</string>
+    <string name="revanced_third_party_youtube_music_package_name_summary">Package name of installed YTM RVX.</string>
+    <string name="revanced_third_party_youtube_music_package_name_title">YTM RVX package name</string>
     <string name="revanced_watch_history_about_status_blocked">• Watch history is blocked.</string>
     <string name="revanced_watch_history_about_status_original">"• Follows the watch history settings of Google account.
 • Watch history may not work due to DNS or VPN."</string>
